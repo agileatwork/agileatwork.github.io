@@ -1,0 +1,20 @@
+{
+  "name": "agileatwork",
+  "version": "0.0.1",
+  "authors": [
+    "Ricardo Borillo <borillo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.0",
+    "jquery-migrate": "1.2.1",
+    "jquery.easing": "1.3"
+  }
+}

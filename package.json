@@ -1,0 +1,7 @@
+{
+  "name": "petmem",
+  "version": "0.0.1",
+  "scripts": {
+    "watch": "browser-sync start --config bs-config.js"
+  }
+}
